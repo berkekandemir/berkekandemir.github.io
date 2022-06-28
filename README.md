@@ -1,2 +1,2 @@
-# personal-website
+# berkekandemir.github.io
 This is my personal website.
